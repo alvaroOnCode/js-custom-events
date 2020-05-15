@@ -18,16 +18,12 @@ Second one declares en Event called **_withCustomData_** which is dispatched on 
 
 ## 🌍 Languages
 
-- :us: English
-- :es: Español :wrench: Not available yet
-
-## Powered by
-
-[Node](https://nodejs.org/), [Vue](https://vuejs.org/) and [Ant Design Vue](https://www.antdv.com/docs/vue/introduce/).
+- 🇺🇸 English
+- 🇪🇸 Español :wrench: Not available yet
 
 ## Happy Code
 
-Made with HTML, CSS, JavaScript and a lot of ❤️
+Made with JavaScript and a lot of ❤️
 
 ## This README.md file looks pretty because of
 
