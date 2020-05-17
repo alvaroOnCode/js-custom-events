@@ -4,7 +4,7 @@
 (() => {
   const event = new Event("myHappyCustomEvent");
 
-  // Suscribe that event
+  // Subscribe that event
   window.addEventListener(
     "myHappyCustomEvent",
     (e) => {

@@ -9,7 +9,7 @@
   // Create event
   const event = new CustomEvent("withCustomData", { detail: customData });
 
-  // Suscribe that event
+  // Subscribe that event
   window.addEventListener(
     "withCustomData",
     (e) => {
@@ -36,5 +36,7 @@
   }
 
   // Dispatch event on body click
-  document.querySelector("button").addEventListener("click", (e) => window.dispatchEvent(event));
+  document
+    .querySelector("button")
+    .addEventListener("click", (e) => window.dispatchEvent(event));
 })();
